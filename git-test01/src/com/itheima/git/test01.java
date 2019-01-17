@@ -5,4 +5,8 @@ public class test01 {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+    public void demo(){
+        int i = 1;
+        i += 10;
+    }
 }

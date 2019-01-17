@@ -8,5 +8,6 @@ public class test01 {
     public void demo(){
         int i = 1;
         i += 10;
+        System.out.println(i);
     }
 }
